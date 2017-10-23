@@ -66,12 +66,12 @@ const styles = StyleSheet.create({
   },
   login:{
     width:width-32,
-        height:35,
-        borderRadius: 20,
-        alignSelf:'center',
-        backgroundColor:'skyblue',
-        marginTop:20,
-        justifyContent:'center',
-        alignItems:'center'//显示Text组件居中
+    height:35,
+    borderRadius: 20,
+    alignSelf:'center',
+    backgroundColor:'skyblue',
+    marginTop:20,
+    justifyContent:'center',
+    alignItems:'center'//显示Text组件居中
       }
 });
