@@ -64,17 +64,6 @@ const styles = StyleSheet.create({
     width:300,
     height: 90
   },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
-  buttonContainer:{
-    backgroundColor: "#1980b9",
-    paddingVertical:10,
-    marginTop:15,
-    marginBottom:20
-  },
   login:{
     width:width-32,
         height:35,
